@@ -1,0 +1,11 @@
+{
+  "name": "book-library",
+  "version": "1.0.0",
+  "description": "Library for uploading books and rating them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jqmes Levine",
+  "license": "ISC"
+}
